@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>NOHAPA</title>
+  
+  <subtitle>既不是骇客也不是画家</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://www.nohapa.com/"/>
+  <updated>2017-12-27T12:34:53.008Z</updated>
+  <id>https://www.nohapa.com/</id>
+  
+  <author>
+    <name>[object Object]</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>SSR最新pc端教程及免费账号</title>
+    <link href="https://www.nohapa.com/post/863a2697.html"/>
+    <id>https://www.nohapa.com/post/863a2697.html</id>
+    <published>2017-12-27T07:57:05.000Z</published>
+    <updated>2017-12-27T12:34:53.008Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p><strong>如下资料均来自github（全球最大的基友网站）</strong></p></blockquote><p>有时间和精力的朋友可以参考站内的自建ss服务教程。为了自己以后能够更加方便和快速的自由上网，花一点时间和精力学习一种技能对你来说会很有用，按照教程一步一步做，并不难。</p><blockquote><p><strong>ssr软件下载及更新地址</strong></p></blockquote><p>WindowsSSR客户端 <a href="https://github.com/shadowsocksr-backup/shadowsocksr-csharp/releases" title="windows ssr下载地址" target="_blank" rel="noopener">下载地址</a> <a href="https://nofile.io/f/6Jm7WJCyOVv/ShadowsocksR-4.7.0-win.7z" title="windows ssr备用下载地址" target="_blank" rel="noopener">备用下载地址</a></p><p>安卓SSR客户端 <a href="https://github.com/shadowsocksr-backup/shadowsocksr-android/releases" title="安卓 SSR客户端下载地址" target="_blank" rel="noopener">下载地址</a> <a href="https://nofile.io/f/GRWw7PbADrc#1c6c32f969e7f5d9" title="安卓 SSR客户端备用下地址" target="_blank" rel="noopener">备用下载地址</a></p><blockquote><p><strong>历史记录</strong></p></blockquote><p><font color="red"><strong>2017年12月24日</strong></font>：更新服务器端口。SSR协议和混淆为选填内容，即使用SSR和SS客户端都能使用以下账号，方便无法使用协议和混淆的用户，首选SSR客户端。</p><p>为保证每个用户都能分配到一定的带宽资源，故进行了限制。每个用户限速120kb/s，每个账号设备数限制200台。禁止使用账号进行BT下载、发送垃圾邮件以及长时间下载大文件，请控制住自己，让项目更加长久，能够帮助到更多的大陆同胞。</p><p><img src="https://www.nohapa.com/image/ssr2017-12-25.png" alt="2017年12月24日"></p><p><del>2017年12月11日：更新服务器端口。SSR协议和混淆为选填内容，即使用SSR和SS客户端都能使用以下账号，方便无法使用协议和混淆的用户，首选SSR客户端。<br><br>为保证每个用户都能分配到一定的带宽资源，故进行了限制。每个用户限速120kb/s，每个账号设备数限制200台。禁止使用账号进行BT下载、发送垃圾邮件以及长时间下载大文件，请控制住自己，让项目更加长久，能够帮助到更多的大陆同胞。</del></p><p><del>2017年12月04日：更新服务器端口。SSR协议和混淆为选填内容，即使用SSR和SS客户端都能使用以下账号，方便无法使用协议和混淆的用户，首选SSR客户端。单线程限速60kb/s，单账号设备数限制200台。</del></p><p><del>2017年11月27日：更新服务器端口。SSR协议和混淆为选填内容，即使用SSR和SS客户端都能使用以下账号（首选SSR客户端），方便无法使用协议和混淆的用户。单线程限速40～80kb/s，单账号设备数限制200台。</del></p><p><del>2017年11月12日：增加罗马尼亚2服务器。单线程限速40～60kb/s，设备数限制200台。SSR协议和混淆为必填内容，即请使用SSR客户端，SS客户端没法使用以下账号。</del></p><p><del>2017年11月11日：近期有个别人滥用服务器，下载侵权电影，造成几个服务器被投诉。本来想取消分享一段时间，但考虑到有些人无法翻墙，心情可能会很焦急。于是换了罗马尼亚的服务器，服务器延迟偏高。</del></p><p><del>2017年11月10日已更新 免费账号 ( 请不要下载外国的版权类视频，谢谢 ) 服务器1已被版权举报</del></p><p><del>2017年11月9日由于个别人使用免费的ssr账号1进行了下载或上传fox福克斯版权视频造成服务器1被投诉因此本人决定暂时取消免费ssr账号分享希望大家自觉也希望大家能够尊重版权意识不要上传或者下载有版权且你并未获得授权的视频</del></p><blockquote><p><strong>操作步骤</strong></p></blockquote><ol><li>解压windows版<br><img src="https://img.nohapa.com/o_1bugdplrt1v181ok71ivq7ajbje.png" alt="ss教程1"></li><li><p>打开ss客户端<br><img src="https://img.nohapa.com/o_1bugdr1ab1g2hkln1kosfd9lc29.png" alt="ss教程2"></p></li><li><p>输入上面服务器的内容（下图输入的是以前的,以上面的图片为准！）可以自行测试了安卓版按照上述步骤即可。<br><img src="https://img.nohapa.com/o_1bugdshvnjdue4r1mhog91uu8e.png" alt="ss教程3"></p></li></ol><p><img src="https://img.nohapa.com/o_1bugduejgno02jn1mpr1ibtgt9j.png" alt="ss教程4"></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;如下资料均来自github（全球最大的基友网站）&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;有时间和精力的朋友可以参考站内的自建ss服务教程。为了自己以后能够更加方便和快速的自由上网，花一点时间和精力学习一种技能对
+      
+    
+    </summary>
+    
+      <category term="资源分享" scheme="https://www.nohapa.com/categories/%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB/"/>
+    
+    
+      <category term="shadowsocksR" scheme="https://www.nohapa.com/tags/shadowsocksR/"/>
+    
+  </entry>
+  
+</feed>
