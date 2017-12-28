@@ -1,31 +1,137 @@
-<html>
+<!DOCTYPE html>
+<html lang="zh-CN">
 <head>
-    <meta charset="utf-8">
-    <title>404页面</title>
-    <style>
-        *{margin:0;padding:0;outline:none;font-family:\5FAE\8F6F\96C5\9ED1,宋体;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;-khtml-user-select:none;user-select:none;cursor:default;font-weight:lighter;}
-        .center{margin:0 auto;}
-        .whole{width:100%;height:100%;line-height:100%;position:fixed;bottom:0;left:0;z-index:-1000;overflow:hidden;}
-        .whole img{width:100%;height:100%;}
-        .mask{width:100%;height:100%;position:absolute;top:0;left:0;background:#000;opacity:0.6;filter:alpha(opacity=60);}
-        .b{width:100%;text-align:center;height:400px;position:absolute;top:50%;margin-top:-230px}.a{width:150px;height:50px;margin-top:30px}.a a{display:block;float:left;width:150px;height:50px;background:#fff;text-align:center;line-height:50px;font-size:18px;border-radius:25px;color:#333}.a a:hover{color:#000;box-shadow:#fff 0 0 20px}
-        p{color:#fff;margin-top:40px;font-size:24px;}
-        #num{margin:0 5px;font-weight:bold;}
-        .plan{color: black;background: white;font-size: 30px; margin-top: 20px;}
-        .plan:hover{color: white;background: black;font-size: 30px;}
-            #gg {
-               position: absolute;
-    width: 654px;
-    height: 470px;
-    left: 50%;
-    top: 50%;
-    margin-left: -377px;
-    margin-top: -235px;
-        }
-    </style>
+    <title>404</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 </head>
-<body onload="redirect();">
+<style type="text/css">
+    body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, code, form, textarea, select, optgroup, option, fieldset, legend, p, blockquote, th, td {
+        margin:0;
+        padding:0
+    }
+    fieldset, img {
+        border:0
+    }
+    ul, li, ol {
+        list-style:none
+    }
+    h1, h2, h3, h4, h5, h6 {
+        font-size:100%
+    }
+    legend {
+        color:#000
+    }
+    input, button, textarea, select, optgroup, option {
+        font-family:inherit;
+        font-size:inherit;
+        font-style:inherit;
+        font-weight:inherit
+    }
+    input, button, select {
+        margin:0;
+        *font-size:100%;
+        line-height:1.2
+    }
+    a img, img {
+        -ms-interpolation-mode:bicubic
+    }
+    body {
+        background:#FFF
+    }
+    a {
+        color:#06c;
+        text-decoration:none
+    }
+    a:hover, a:active, a:focus {
+        color:#06c;
+        text-decoration:underline
+    }
+    table {
+        border-collapse:collapse;
+        border-spacing:0
+    }
+    header, aside, section {
+        display:block
+    }
+    body, button, input, select, textarea {
+        font:12px/1.5 tahoma, arial, "隶书";
+        color:#666
+    }
+    .center {
+        text-align:center
+    }
+    .clear:after, .clearfix:after {
+        content:".";
+        display:block;
+        clear:both;
+        visibility:hidden;
+        font-size:0;
+        height:0;
+        line-height:0
+    }
+    .clear, .clearfix {
+        zoom:1
+    }
+    .b-panel {
+        position:absolute
+    }
+    .b-fr {
+        float:right
+    }
+    .b-fl {
+        float:left
+    }
+    .error-404 {
+        background-color:#EDEDF0
+    }
+    .module-error {
+        margin-top:182px
+    }
+    .module-error .error-main {
+        margin:0 auto;
+        width:420px
+    }
+    .module-error .label {
+        float:left;
+        width:160px;
+        height:151px;
+        background:url('https://www.nohapa.com/img/error.png') 0 0 no-repeat
+    }
+    .module-error .info {
+        margin-left:182px;
+        line-height:1.8
+    }
+    .module-error .title {
+        color:#666;
+        font-size:14px
+    }
+    .module-error .reason {
+        margin:8px 0 18px 0;
+        color:#666
+    }
 
+</style>
+<body class="error-404">
+<div id="doc_main">
+    <section class="bd clearfix">
+        <div class="module-error">
+            <div class="error-main clearfix">
+                <div class="label"></div>
+                <div class="info">
+                    <h3 class="title">啊哦，你所访问的页面不存在了，可能是炸了</h3>
+                    <div class="reason">
+                        <p>原因：</p>
+                        <p>1.网站正在更换为hexo静态页面+github存储。</p>
+                        <p>2.手抖打错了。</p>
+						<p>2.链接过了保质期。</p>
+                    </div>
+                    <div class="oper">
+                        <p><a href="https://www.nohapa.com/">回到网站首页&gt;</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</div>
 </body>
-
 </html>
