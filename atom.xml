@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.nohapa.com/"/>
-  <updated>2017-12-29T11:54:39.049Z</updated>
+  <updated>2017-12-29T14:04:38.686Z</updated>
   <id>https://www.nohapa.com/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>支持https的免费图床</title>
+    <link href="https://www.nohapa.com/post/80736645.html"/>
+    <id>https://www.nohapa.com/post/80736645.html</id>
+    <published>2017-12-29T13:59:06.000Z</published>
+    <updated>2017-12-29T14:04:38.686Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p><strong>前言</strong></p></blockquote><p>本网站原先把静态资源，比如图片上传到七牛云后再把返回的链接保存到mysql。使用了https后，需要缴纳一定的费用。现在网站由java框架更改为hexo后，决定不再使用七牛云了。所以找到了几家免费并支持<strong>https</strong>的图床。</p><blockquote><p><strong>百科时间</strong></p></blockquote><p>图床一般是指储存图片的服务器，有国内和国外之分。国外的图床由于有空间距离等因素决定访问速度很慢影响图片显示速度。国内也分为单线空间、多线空间和cdn加速三种。</p><blockquote><p><strong>图床(排名不分先后)</strong></p></blockquote><p><strong>1、爱信息图床</strong> <a href="https://tu.aixinxi.net/" target="_blank" rel="noopener">https://tu.aixinxi.net/</a></p><ul><li><p>支持 最大10M 文件上传</p></li><li><p>支持格式：</p><ul><li><p>图片：jpg,png,gif,bmp,webp,jpeg,psd</p></li><li><p>音乐：mp3,ogg</p></li><li><p>视频：swf,mp4,flv,webm </p></li><li><p>压缩包：zip,rar,7z,gz</p></li><li><p>文档：txt,doc,docx,xls,xlsx,ppt,pptx,wps</p></li><li><p>其他：torrent,exe,js,css </p></li></ul></li><li><p>支持 https加密 外链，需要时，请将文件外链地址中的http改为https即可</p></li><li><p>支持 分享和加密分享 (类似百度网盘)</p></li><li><p>网站运营时间  2009-2017</p></li></ul><p><strong>2、路过图床</strong> <a href="https://imgchr.com/" target="_blank" rel="noopener">https://imgchr.com/</a></p><ul><li><p>支持 最大10M 文件上传</p></li><li><p>全球CDN加速</p></li><li><p>支持外链</p></li><li><p>无限空间, 无限流量</p></li><li><p><strong>有上传插件和电脑客户端</strong></p></li><li><p>网站运营时间 2011-2017</p></li></ul><p><strong>3、简单图床</strong> <a href="https://simimg.com/" target="_blank" rel="noopener">https://simimg.com/</a></p><ul><li><p>支持 最大10M 文件上传</p></li><li><p>全球CDN加速</p></li><li><p>支持外链</p></li><li><p>免费10TB云存储图片空间</p></li><li><p>网站运营时间 2008-2017</p></li></ul><hr><p>根据上面图床链接，打开了解后自行选择一个图床来使用。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;前言&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;本网站原先把静态资源，比如图片上传到七牛云后再把返回的链接保存到mysql。使用了https后，需要缴纳一定的费用。现在网站由java框架更改为hexo后，决定不再使
+      
+    
+    </summary>
+    
+      <category term="资源分享" scheme="https://www.nohapa.com/categories/%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB/"/>
+    
+    
+      <category term="图床" scheme="https://www.nohapa.com/tags/%E5%9B%BE%E5%BA%8A/"/>
+    
+  </entry>
   
   <entry>
     <title>hexo主题skapp添加valine评论系统方法</title>
