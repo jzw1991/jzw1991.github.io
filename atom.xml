@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.nohapa.com/"/>
-  <updated>2017-12-28T16:24:33.718Z</updated>
+  <updated>2017-12-29T11:02:09.229Z</updated>
   <id>https://www.nohapa.com/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>怎么上P站，P站是谁？（教程）</title>
+    <link href="https://www.nohapa.com/post/f2ef5738.html"/>
+    <id>https://www.nohapa.com/post/f2ef5738.html</id>
+    <published>2017-12-29T10:54:25.000Z</published>
+    <updated>2017-12-29T11:02:09.229Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://s1.ax1x.com/2017/12/29/zGt00.png" alt="p站"></p><blockquote><p><strong>百科时间</strong></p></blockquote><p>Pixiv，是一个主要由日本艺术家所组成的虚拟社群，主体为由pixiv股份制有限公司所运营的为插画艺术特化的社交网络服务网站。新兴的日本同人画、插画作品分享站点。采用了web2.0的方式，每个参与者都有自己的主页并可以对作品评价打分。</p><blockquote><p><strong>上P站方法(两种方法都可以)</strong></p></blockquote><p>1、SSR和免费账号 </p><p>2、改host文件，添加IP</p><blockquote><p><strong>使用SSR和免费账号</strong></p></blockquote><p>参考站内两篇文章即可。</p><p><a href="https://www.nohapa.com/post/e6941d78.html" title="免费二维码账号">免费二维码账号</a></p><p><a href="https://www.nohapa.com/post/863a2697.html" title="ssr教程">SSR客户端教程</a></p><blockquote><p><strong>修改host文件</strong></p></blockquote><p>1、按下键盘win+E，并在地址栏里填写 C:\Windows\System32\drivers\etc（回车）</p><p><img src="https://s1.ax1x.com/2017/12/29/zGc0x.png" alt="修改host文件"></p><p>2、对host文件右键属性，点击“安全”选项下的“编辑”</p><p><img src="https://s1.ax1x.com/2017/12/29/zGRAK.png" alt="修改host文件2"></p><p>3、将完全控制勾为允许，然后点击确认再确认 </p><p><img src="https://s1.ax1x.com/2017/12/29/zG51H.png" alt="修改host文件3"></p><p>4、对hosts文件右击选择打开方式，找到“记事本”打开它。将下列信息复制到最后一行，保存。</p><p>210.129.120.41    www.pixiv.net accounts.pixiv.net<br><br>210.140.131.144    source.pixiv.net imgaz.pixiv.net</p><p>5、打开P站首页<a href="https://www.pixiv.net/" target="_blank" rel="noopener">https://www.pixiv.net/</a></p><p><a href="https://imgchr.com/i/zGIcd" target="_blank" rel="noopener"><img src="https://s1.ax1x.com/2017/12/29/zGIcd.md.png" alt="zGIcd.md.png"></a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;img src=&quot;https://s1.ax1x.com/2017/12/29/zGt00.png&quot; alt=&quot;p站&quot;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;百科时间&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Pixiv，是一个主要由
+      
+    
+    </summary>
+    
+      <category term="资源分享" scheme="https://www.nohapa.com/categories/%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB/"/>
+    
+    
+      <category term="pixiv,shadowsocksr" scheme="https://www.nohapa.com/tags/pixiv-shadowsocksr/"/>
+    
+  </entry>
   
   <entry>
     <title>hexo主题skapp添加valine评论系统方法</title>
